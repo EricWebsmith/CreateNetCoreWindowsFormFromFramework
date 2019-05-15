@@ -3,9 +3,9 @@ using System.Windows.Forms;
 
 namespace Core
 {
-    public partial class Form1 : Form
+    public partial class CoreForm : Form
     {
-        public Form1()
+        public CoreForm()
         {
             InitializeComponent();
         }

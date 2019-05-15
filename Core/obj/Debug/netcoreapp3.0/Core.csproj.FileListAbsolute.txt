@@ -5,10 +5,10 @@ C:\Users\eric\source\repos\WindowsFormsApp3\Core\bin\Debug\netcoreapp3.0\Core.ru
 C:\Users\eric\source\repos\WindowsFormsApp3\Core\bin\Debug\netcoreapp3.0\Core.dll
 C:\Users\eric\source\repos\WindowsFormsApp3\Core\bin\Debug\netcoreapp3.0\Core.pdb
 C:\Users\eric\source\repos\WindowsFormsApp3\Core\obj\Debug\netcoreapp3.0\Core.csprojAssemblyReference.cache
-C:\Users\eric\source\repos\WindowsFormsApp3\Core\obj\Debug\netcoreapp3.0\Core.Form1.resources
 C:\Users\eric\source\repos\WindowsFormsApp3\Core\obj\Debug\netcoreapp3.0\Core.csproj.GenerateResource.cache
 C:\Users\eric\source\repos\WindowsFormsApp3\Core\obj\Debug\netcoreapp3.0\Core.csproj.CoreCompileInputs.cache
 C:\Users\eric\source\repos\WindowsFormsApp3\Core\obj\Debug\netcoreapp3.0\Core.AssemblyInfoInputs.cache
 C:\Users\eric\source\repos\WindowsFormsApp3\Core\obj\Debug\netcoreapp3.0\Core.AssemblyInfo.cs
 C:\Users\eric\source\repos\WindowsFormsApp3\Core\obj\Debug\netcoreapp3.0\Core.dll
 C:\Users\eric\source\repos\WindowsFormsApp3\Core\obj\Debug\netcoreapp3.0\Core.pdb
+C:\Users\eric\source\repos\WindowsFormsApp3\Core\obj\Debug\netcoreapp3.0\Core.CoreForm.resources

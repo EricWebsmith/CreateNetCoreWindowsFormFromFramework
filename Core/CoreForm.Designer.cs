@@ -1,6 +1,6 @@
 ﻿namespace Core
 {
-    partial class Form1
+    partial class CoreForm
     {
         /// <summary>
         /// Required designer variable.
